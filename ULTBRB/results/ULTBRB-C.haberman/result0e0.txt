@@ -1,0 +1,8 @@
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Number of Labels of this variable: 3
+
+Positive:
+ L_1: (-26.0,0.0,26.0)
+ L_2: (0.0,26.0,52.0)
+ L_3: (26.0,52.0,78.0)

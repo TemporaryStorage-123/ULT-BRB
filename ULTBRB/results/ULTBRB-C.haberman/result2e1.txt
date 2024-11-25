@@ -1,0 +1,7 @@
+@Number of rules: 5
+
+1: Age IS null: positive(6.5913198259264184E-24),negative(1.0),Omega(4.584541947032868E-38); with Rule Weight: 1.0
+2: Age IS L_1: positive(7.9380854330205605E-25),negative(1.0),Omega(2.535538763920889E-41); with Rule Weight: 1.0
+3: Age IS null: positive(2.153459146717584E-14),negative(0.9999999999999785),Omega(9.628014388140568E-21); with Rule Weight: 1.0
+4: Age IS L_0: positive(2.569701703758116E-8),negative(0.9999999701835587),Omega(4.1194242421712806E-9); with Rule Weight: 1.0
+5: Age IS L_2: positive(0.916926390822011),negative(0.04090983395368893),Omega(0.04216377522430008); with Rule Weight: 1.0

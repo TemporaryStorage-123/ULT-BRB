@@ -1,0 +1,8 @@
+algorithm = Summary of Classification probs.
+inputData = "../results/ULTBRB-C.haberman/result0.tst" "../results/ULTBRB-C.haberman/result1.tst" "../results/ULTBRB-C.haberman/result2.tst" "../results/ULTBRB-C.haberman/result3.tst" "../results/ULTBRB-C.haberman/result4.tst" "../results/ULTBRB-C.haberman/result5.tst" "../results/ULTBRB-C.haberman/result6.tst" "../results/ULTBRB-C.haberman/result7.tst" "../results/ULTBRB-C.haberman/result8.tst" "../results/ULTBRB-C.haberman/result9.tst" "../results/ULTBRB-C.haberman/result0.tra" "../results/ULTBRB-C.haberman/result1.tra" "../results/ULTBRB-C.haberman/result2.tra" "../results/ULTBRB-C.haberman/result3.tra" "../results/ULTBRB-C.haberman/result4.tra" "../results/ULTBRB-C.haberman/result5.tra" "../results/ULTBRB-C.haberman/result6.tra" "../results/ULTBRB-C.haberman/result7.tra" "../results/ULTBRB-C.haberman/result8.tra" "../results/ULTBRB-C.haberman/result9.tra" 
+outputData = "../results/Vis-Clas-Check/TSTULTBRB-C/result0s0.stat" 
+
+seed = 1286082570
+subAlgorithm = StatCheckCL
+dataformat = keel
+outlabel = CHK

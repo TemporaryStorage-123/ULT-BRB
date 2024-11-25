@@ -1,0 +1,4 @@
+algorithm = ULTBRB
+inputData = "../datasets/haberman/haberman-10-10tra.dat" "../datasets/haberman/haberman-10-10tra.dat" "../datasets/haberman/haberman-10-10tst.dat" 
+outputData = "../results/ULTBRB-C.haberman/result9.tra" "../results/ULTBRB-C.haberman/result9.tst" "../results/ULTBRB-C.haberman/result9e0.txt"  "../results/ULTBRB-C.haberman/result9e1.txt"  
+

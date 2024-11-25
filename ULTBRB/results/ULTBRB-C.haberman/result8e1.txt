@@ -1,0 +1,10 @@
+@Number of rules: 8
+
+1: Age IS L_0 AND Positive IS L_0: positive(4.8690001685330756E-36),negative(1.0),Omega(6.879789449448274E-46); with Rule Weight: 1.0
+2: Age IS L_1 AND Positive IS L_0: positive(5.610602381471693E-18),negative(1.0),Omega(9.04747776941485E-24); with Rule Weight: 1.0
+3: Age IS L_0 AND Positive IS L_1: positive(0.8994707948454693),negative(0.0583732806711435),Omega(0.0421559244833872); with Rule Weight: 1.0
+4: Age IS L_1 AND Positive IS null: positive(0.788102997696852),negative(0.20234986939218),Omega(0.00954713291096795); with Rule Weight: 1.0
+5: Age IS L_0 AND Positive IS null: positive(0.006806954313231276),negative(0.993191107273354),Omega(1.9384134145922582E-6); with Rule Weight: 1.0
+6: Age IS L_1 AND Positive IS L_1: positive(0.10467154936644311),negative(0.7456130599171805),Omega(0.14971539071637632); with Rule Weight: 1.0
+7: Age IS L_1 AND Positive IS null: positive(0.3409288824383164),negative(0.0),Omega(0.6590711175616836); with Rule Weight: 1.0
+8: Age IS L_0 AND Positive IS L_2: positive(0.6792452830188679),negative(0.0),Omega(0.3207547169811321); with Rule Weight: 1.0

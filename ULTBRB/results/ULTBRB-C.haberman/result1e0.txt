@@ -1,0 +1,23 @@
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Number of Labels of this variable: 3
+
+Year:
+ L_1: (52.5,58.0,63.5)
+ L_2: (58.0,63.5,69.0)
+ L_3: (63.5,69.0,74.5)
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Number of Labels of this variable: 4
+
+Positive:
+ L_1: (-26.0,0.0,13.0)
+ L_2: (0.0,13.0,26.0)
+ L_3: (13.0,26.0,52.0)
+ L_4: (26.0,52.0,78.0)
+@Using Triangular Membership Functions as antecedent fuzzy sets
+@Number of Labels of this variable: 3
+
+Age:
+ L_1: (3.5,30.0,56.5)
+ L_2: (30.0,56.5,83.0)
+ L_3: (56.5,83.0,109.5)

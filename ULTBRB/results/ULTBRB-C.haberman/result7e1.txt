@@ -1,0 +1,29 @@
+@Number of rules: 27
+
+1: Age IS null AND Year IS L_0 AND Positive IS L_0: positive(9.00897797181173E-10),negative(0.9999999990862921),Omega(1.280997786706868E-11); with Rule Weight: 1.0
+2: Age IS L_1 AND Year IS L_0 AND Positive IS L_0: positive(5.244285756209211E-13),negative(0.9999999999994588),Omega(1.6760758668710377E-14); with Rule Weight: 1.0
+3: Age IS null AND Year IS L_1 AND Positive IS L_0: positive(0.008593908290793146),negative(0.9914018939535029),Omega(4.1977557039061065E-6); with Rule Weight: 1.0
+4: Age IS L_1 AND Year IS L_1 AND Positive IS L_0: positive(8.342984131888025E-8),negative(0.9999999154699981),Omega(1.1001606917277183E-9); with Rule Weight: 1.0
+5: Age IS null AND Year IS L_0 AND Positive IS L_0: positive(0.02996580665066305),negative(0.9699841072008282),Omega(5.008614850877321E-5); with Rule Weight: 1.0
+6: Age IS L_1 AND Year IS L_1 AND Positive IS L_1: positive(0.19929885226623195),negative(0.4424193424415754),Omega(0.3582818052921926); with Rule Weight: 1.0
+7: Age IS L_1 AND Year IS L_1 AND Positive IS null: positive(0.6164339720709523),negative(0.33226419452552475),Omega(0.05130183340352291); with Rule Weight: 1.0
+8: Age IS null AND Year IS L_0 AND Positive IS null: positive(0.386152222335974),negative(0.5798406004748341),Omega(0.03400717718919191); with Rule Weight: 1.0
+9: Age IS L_0 AND Year IS L_0 AND Positive IS L_0: positive(0.03403119155782621),negative(0.9404198658311932),Omega(0.02554894261098063); with Rule Weight: 1.0
+10: Age IS null AND Year IS L_1 AND Positive IS L_0: positive(3.3503066140067334E-7),negative(0.9999988804244343),Omega(7.845449041882611E-7); with Rule Weight: 1.0
+11: Age IS null AND Year IS L_0 AND Positive IS L_1: positive(0.5337642650467338),negative(0.13021873647566623),Omega(0.3360169984776); with Rule Weight: 1.0
+12: Age IS L_2 AND Year IS L_1 AND Positive IS L_0: positive(0.2713541987991681),negative(0.17564795867448474),Omega(0.5529978425263471); with Rule Weight: 1.0
+13: Age IS L_0 AND Year IS L_1 AND Positive IS null: positive(0.18854739468568613),negative(0.4039870268923861),Omega(0.40746557842192777); with Rule Weight: 1.0
+14: Age IS null AND Year IS L_1 AND Positive IS null: positive(0.5105946839522831),negative(0.29011745664852656),Omega(0.19928785939919036); with Rule Weight: 1.0
+15: Age IS L_0 AND Year IS L_1 AND Positive IS L_0: positive(0.0),negative(0.9248818369521458),Omega(0.07511816304785426); with Rule Weight: 1.0
+16: Age IS L_1 AND Year IS L_0 AND Positive IS null: positive(0.91544585721658),negative(0.051727109135704795),Omega(0.03282703364771514); with Rule Weight: 1.0
+17: Age IS null AND Year IS L_0 AND Positive IS null: positive(0.30913217629634276),negative(0.34128633486561466),Omega(0.3495814888380426); with Rule Weight: 1.0
+18: Age IS null AND Year IS L_1 AND Positive IS null: positive(0.06276664179708134),negative(0.848294487447657),Omega(0.08893887075526166); with Rule Weight: 1.0
+19: Age IS L_1 AND Year IS L_0 AND Positive IS L_1: positive(0.0),negative(0.601302805418149),Omega(0.398697194581851); with Rule Weight: 1.0
+20: Age IS null AND Year IS L_1 AND Positive IS L_1: positive(0.24438580287636888),negative(0.0),Omega(0.7556141971236311); with Rule Weight: 1.0
+21: Age IS L_1 AND Year IS L_0 AND Positive IS null: positive(0.3216915160311386),negative(0.0),Omega(0.6783084839688613); with Rule Weight: 1.0
+22: Age IS L_2 AND Year IS L_0 AND Positive IS L_0: positive(0.7615384615384616),negative(0.0),Omega(0.2384615384615384); with Rule Weight: 1.0
+23: Age IS L_1 AND Year IS L_1 AND Positive IS L_2: positive(0.0),negative(0.3216915160311387),Omega(0.6783084839688613); with Rule Weight: 1.0
+24: Age IS L_0 AND Year IS L_0 AND Positive IS null: positive(0.0),negative(0.35149755904472885),Omega(0.6485024409552711); with Rule Weight: 1.0
+25: Age IS null AND Year IS L_0 AND Positive IS L_2: positive(0.8830188679245283),negative(0.0),Omega(0.11698113207547167); with Rule Weight: 1.0
+26: Age IS L_0 AND Year IS L_0 AND Positive IS L_1: positive(0.0),negative(0.4349782293178519),Omega(0.5650217706821481); with Rule Weight: 1.0
+27: Age IS null AND Year IS L_0 AND Positive IS L_1: positive(0.2543607336060166),negative(0.0),Omega(0.7456392663939835); with Rule Weight: 1.0

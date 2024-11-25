@@ -1,0 +1,5 @@
+@Number of rules: 3
+
+1: Positive IS L_0: positive(5.487615499469943E-124),negative(1.0),Omega(6.6181536318270705E-165); with Rule Weight: 1.0
+2: Positive IS L_1: positive(0.7182918392437497),negative(0.2817080593113638),Omega(1.0144488649140723E-7); with Rule Weight: 1.0
+3: Positive IS L_2: positive(0.7346938775510203),negative(0.18367346938775514),Omega(0.08163265306122447); with Rule Weight: 1.0
